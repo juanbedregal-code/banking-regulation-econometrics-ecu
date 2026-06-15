@@ -38,6 +38,6 @@ banking-regulation-econometrics/
 ## 💻 Computational Requirements
 - **Stata:** Version 16+ is required.
 - **Required user-written commands:** `xtabond2`, `xtscc`, `rdrobust`, `rddensity`, `winsor2`, `outreg2`, `coefplot`.
-- **Wall-clock time:** ~5 minutes for full estimation on a standard 16GB RAM machine.
+- **Wall-clock time:** ~15 minutes for full estimation on a standard 16GB RAM machine.
 ---
 *Created by [Juan José Bedregal](https://github.com/juanbedregal-code)*
